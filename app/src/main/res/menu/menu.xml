@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popularMoviesFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Popular" />
+    <item
+        android:id="@+id/upcomingMoviesFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Upcoming" />
+    <item
+        android:id="@+id/topRatedMoviesFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Top Rated" />
+</menu>
