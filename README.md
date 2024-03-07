@@ -46,7 +46,7 @@ Faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>. Vo
   - Comunicação da ViewModel com a View através de LiveData
   - Repositories para abstração da comunidação com a camada de dados.
   
-- Bibliotecas - LISTE TODAS AS BIBLIOTECAS USADAS NO PROJETO, COM LINK E DESCRIÇÃO BREVE DO QUE ELA FAZ
+- Bibliotecas
   - [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android?hl=pt-br) : Para fazer injeção de dependências que reduz o código boilerplate.
   - [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Para realizar requisições seguindo o padrão HTTP.
   - [Picasso](https://github.com/square/picasso): Para carregamento de imagens e cacheamento das mesmas.
